@@ -33,7 +33,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="375dp"
+        android:layout_width="331dp"
         android:layout_height="wrap_content"
         android:text="UserName"
         android:textSize="20sp"
@@ -43,7 +43,7 @@
 
     <EditText
         android:id="@+id/txtNombre"
-        android:layout_width="match_parent"
+        android:layout_width="331dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
@@ -53,8 +53,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="367dp"
-        android:layout_height="31dp"
+        android:layout_width="334dp"
+        android:layout_height="wrap_content"
         android:text="Password"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -63,7 +63,7 @@
 
     <EditText
         android:id="@+id/txtPass"
-        android:layout_width="match_parent"
+        android:layout_width="324dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPassword"
